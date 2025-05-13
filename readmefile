@@ -1,0 +1,6 @@
+Project Title: Student Records System
+
+Description: A database to manage student records, courses, enrollments, and grades.
+
+How to run/setup the project: Import the SQL file into MySQL Workbench or MySQL CLI.
+
